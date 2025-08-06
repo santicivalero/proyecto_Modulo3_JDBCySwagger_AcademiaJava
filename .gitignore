@@ -1,0 +1,16 @@
+# Java / Maven
+/target/
+*.log
+*.class
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.swp
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
